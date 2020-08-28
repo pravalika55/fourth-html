@@ -8,16 +8,17 @@ this is to list
  </ol>
  
  # Unorderd
- <ol>
-  <li>Bioinformatics</li>
-  <li> python for data science  <!-- closing </li> 
+ 
+<ol>
+  <li>bioinformatics</li>
+  <li> python <!-- closing </li> tag not here! -->
     <ul>
-      <li>python introduction</li>
-      <li>data science using pthon</li>
-      <li>data statistics using using python</li>
+      <li>Introduction</li>
+      <li>data science</li>
+      <li>python</li>
     </ul>
   </li>            <!-- Here's the closing </li> tag -->
   <li>c programming</li>
 </ol>
-
+The above HTML will output:
     
